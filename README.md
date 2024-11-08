@@ -1,6 +1,6 @@
 # Curso de Desenvolvimento Full-stack da EBAC
 
-Este repositório foi criado para armazenar de forma organizada as atividades do curso de **Desenvolvimento Full-stack** da EBAC. 
+Este repositório foi criado para armazenar de forma organizada as atividades dos meus estudos em **Desenvolvimento Full-stack**. 
 Ele está estruturado em sub-diretórios, sendo cada um deles referente a um respectivo tema.
 
 ## Estrutura do repositório
