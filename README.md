@@ -7,10 +7,10 @@ Ele está estruturado em sub-diretórios, sendo cada um deles referente a um res
 
 O repositório está organizado da seguinte forma:
 
-- **HTML**: Exercícios relacionados à linguagem HTML.
-- **CSS**: Exercícios relacionados à estilização com CSS.
-- **JavaScript**: Exercícios relacionados à programação em JavaScript.
-- **Outros**: Atividades de outras disciplinas ou tópicos.
+- **aulas-html**: Exercícios relacionados à linguagem HTML.
+- **aulas-css**: Exercícios relacionados à estilização com CSS.
+- **aulas-js**: Exercícios relacionados à programação em JavaScript.
+- **aulas-git**: Exercícios relacionados ao uso de Git.
 
 ## Como utilizar
 
